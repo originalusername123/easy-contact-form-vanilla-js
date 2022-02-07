@@ -25,7 +25,7 @@ formFooter.addEventListener("submit", function(evt) {
     message.value=''
     return alert('Tu mensaje fue recibido, pronto nos pondremos en contacto contigo.');
     }
-    return alert('Ocurrió un error inesperado. Favor comunícate directamente a contacto@defiendetuidea.cl');
+    return alert('Ocurrió un error inesperado. Favor comunícate directamente a contacto@mysite.com');
 
     };
 
